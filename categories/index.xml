@@ -1,67 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Parsa | Personal Blog Template</title>
-    <link>https://anhtuan227.github.io/categories/</link>
-    <description>Recent content in Categories on Parsa | Personal Blog Template</description>
+    <title>Categories on Hugo tranquilpeak theme</title>
+    <link>https://anhtuan227.github.io/firstsite/categories/</link>
+    <description>Recent content in Categories on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://anhtuan227.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://anhtuan227.github.io/firstsite/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Article</title>
-      <link>https://anhtuan227.github.io/categories/article/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <title>features</title>
+      <link>https://anhtuan227.github.io/firstsite/categories/features/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://anhtuan227.github.io/categories/article/</guid>
+      <guid>https://anhtuan227.github.io/firstsite/categories/features/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Fashion</title>
-      <link>https://anhtuan227.github.io/categories/fashion/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <title>tranquilpeak</title>
+      <link>https://anhtuan227.github.io/firstsite/categories/tranquilpeak/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://anhtuan227.github.io/categories/fashion/</guid>
+      <guid>https://anhtuan227.github.io/firstsite/categories/tranquilpeak/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Food</title>
-      <link>https://anhtuan227.github.io/categories/food/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <title>releases</title>
+      <link>https://anhtuan227.github.io/firstsite/categories/releases/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://anhtuan227.github.io/categories/food/</guid>
+      <guid>https://anhtuan227.github.io/firstsite/categories/releases/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Nature</title>
-      <link>https://anhtuan227.github.io/categories/nature/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <title>showcase appliquée</title>
+      <link>https://anhtuan227.github.io/firstsite/categories/showcase-appliqu%C3%A9e/</link>
+      <pubDate>Sun, 14 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://anhtuan227.github.io/categories/nature/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Philosophy</title>
-      <link>https://anhtuan227.github.io/categories/philosophy/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://anhtuan227.github.io/categories/philosophy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Valuable Idea</title>
-      <link>https://anhtuan227.github.io/categories/valuable-idea/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://anhtuan227.github.io/categories/valuable-idea/</guid>
+      <guid>https://anhtuan227.github.io/firstsite/categories/showcase-appliqu%C3%A9e/</guid>
       <description></description>
     </item>
     
