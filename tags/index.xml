@@ -1,211 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hugo tranquilpeak theme</title>
-    <link>https://anhtuan227.github.io/firstsite/tags/</link>
-    <description>Recent content in Tags on Hugo tranquilpeak theme</description>
+    <title>Tags on Parsa | Personal Blog Template</title>
+    <link>https://anhtuan227.github.io/tags/</link>
+    <description>Recent content in Tags on Parsa | Personal Blog Template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
     
-	<atom:link href="https://anhtuan227.github.io/firstsite/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://anhtuan227.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>cover image</title>
-      <link>https://anhtuan227.github.io/firstsite/tags/cover-image/</link>
-      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
+      <title>Article</title>
+      <link>https://anhtuan227.github.io/tags/article/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://anhtuan227.github.io/firstsite/tags/cover-image/</guid>
+      <guid>https://anhtuan227.github.io/tags/article/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>disqus</title>
-      <link>https://anhtuan227.github.io/firstsite/tags/disqus/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <title>Fashion</title>
+      <link>https://anhtuan227.github.io/tags/fashion/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://anhtuan227.github.io/firstsite/tags/disqus/</guid>
+      <guid>https://anhtuan227.github.io/tags/fashion/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>google analytics</title>
-      <link>https://anhtuan227.github.io/firstsite/tags/google-analytics/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <title>Finance</title>
+      <link>https://anhtuan227.github.io/tags/finance/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://anhtuan227.github.io/firstsite/tags/google-analytics/</guid>
+      <guid>https://anhtuan227.github.io/tags/finance/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>gravatar</title>
-      <link>https://anhtuan227.github.io/firstsite/tags/gravatar/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <title>Food</title>
+      <link>https://anhtuan227.github.io/tags/food/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://anhtuan227.github.io/firstsite/tags/gravatar/</guid>
+      <guid>https://anhtuan227.github.io/tags/food/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>hexo theme</title>
-      <link>https://anhtuan227.github.io/firstsite/tags/hexo-theme/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <title>Nature</title>
+      <link>https://anhtuan227.github.io/tags/nature/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://anhtuan227.github.io/firstsite/tags/hexo-theme/</guid>
+      <guid>https://anhtuan227.github.io/tags/nature/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>responsive</title>
-      <link>https://anhtuan227.github.io/firstsite/tags/responsive/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <title>Philosophy</title>
+      <link>https://anhtuan227.github.io/tags/philosophy/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://anhtuan227.github.io/firstsite/tags/responsive/</guid>
+      <guid>https://anhtuan227.github.io/tags/philosophy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>html elements</title>
-      <link>https://anhtuan227.github.io/firstsite/tags/html-elements/</link>
-      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      <title>Photos</title>
+      <link>https://anhtuan227.github.io/tags/photos/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://anhtuan227.github.io/firstsite/tags/html-elements/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markdown</title>
-      <link>https://anhtuan227.github.io/firstsite/tags/markdown/</link>
-      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://anhtuan227.github.io/firstsite/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>github theme</title>
-      <link>https://anhtuan227.github.io/firstsite/tags/github-theme/</link>
-      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://anhtuan227.github.io/firstsite/tags/github-theme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>highlight code</title>
-      <link>https://anhtuan227.github.io/firstsite/tags/highlight-code/</link>
-      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://anhtuan227.github.io/firstsite/tags/highlight-code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>https://anhtuan227.github.io/firstsite/tags/test/</link>
-      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://anhtuan227.github.io/firstsite/tags/test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tag plugins</title>
-      <link>https://anhtuan227.github.io/firstsite/tags/tag-plugins/</link>
-      <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://anhtuan227.github.io/firstsite/tags/tag-plugins/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>social</title>
-      <link>https://anhtuan227.github.io/firstsite/tags/social/</link>
-      <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://anhtuan227.github.io/firstsite/tags/social/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tags</title>
-      <link>https://anhtuan227.github.io/firstsite/tags/tags/</link>
-      <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://anhtuan227.github.io/firstsite/tags/tags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pagination</title>
-      <link>https://anhtuan227.github.io/firstsite/tags/pagination/</link>
-      <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://anhtuan227.github.io/firstsite/tags/pagination/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dailymotion</title>
-      <link>https://anhtuan227.github.io/firstsite/tags/dailymotion/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://anhtuan227.github.io/firstsite/tags/dailymotion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>videos integration</title>
-      <link>https://anhtuan227.github.io/firstsite/tags/videos-integration/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://anhtuan227.github.io/firstsite/tags/videos-integration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vimeo</title>
-      <link>https://anhtuan227.github.io/firstsite/tags/vimeo/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://anhtuan227.github.io/firstsite/tags/vimeo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>youtube</title>
-      <link>https://anhtuan227.github.io/firstsite/tags/youtube/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://anhtuan227.github.io/firstsite/tags/youtube/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>chinese</title>
-      <link>https://anhtuan227.github.io/firstsite/tags/chinese/</link>
-      <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://anhtuan227.github.io/firstsite/tags/chinese/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>image gallery</title>
-      <link>https://anhtuan227.github.io/firstsite/tags/image-gallery/</link>
-      <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://anhtuan227.github.io/firstsite/tags/image-gallery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>japanese</title>
-      <link>https://anhtuan227.github.io/firstsite/tags/japanese/</link>
-      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://anhtuan227.github.io/firstsite/tags/japanese/</guid>
+      <guid>https://anhtuan227.github.io/tags/photos/</guid>
       <description></description>
     </item>
     
